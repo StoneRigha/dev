@@ -10,6 +10,7 @@ body {
                                 color: white;
                                     overflow: hidden;
                                         position: relative;
+}
                     
 /* Background Canvas for Animation */
 #backgroundCanvas {
@@ -20,7 +21,7 @@ body {
                     height: 100%;
                         z-index: -1;
                         }
-                        
+
 
                                 .container {
                                     width: 90%;
